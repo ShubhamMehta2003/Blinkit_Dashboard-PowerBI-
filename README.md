@@ -29,7 +29,7 @@ Here are some preview images of the dashboard:
 ### 🌆 City Performance
 ![City Performance](screenshots/city_performance.png)
 
-> *(To display correctly, make sure these screenshots are placed inside a `screenshots/` folder in your repository. You can rename or adjust paths as needed.)*
+> ⚠️ *Make sure these images are uploaded inside a folder named `screenshots/` in your GitHub repository. If not, the images will not display correctly.*
 
 ---
 
