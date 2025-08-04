@@ -1,34 +1,60 @@
-# Blinkit Dashboard - Power BI Project
+# Blinkit Dashboard – Power BI Project
 
-This repository contains an interactive and visually rich Power BI dashboard designed to analyze and visualize key metrics of Blinkit (formerly Grofers), a rapid grocery delivery service in India. The dashboard provides a comprehensive overview of business performance across sales, orders, delivery, and operational KPIs.
-
----
-
-## 📊 Project Objective
-
-The main objective of this project is to use Power BI to:
-
-- Analyze sales trends over time
-- Track order volumes and fulfillment
-- Monitor delivery efficiency and average delivery time
-- Compare performance across cities and categories
-- Provide data-driven insights to support decision-making
+An interactive Power BI dashboard offering comprehensive insights into Blinkit’s business operations—including sales, delivery, products, customer ratings, and outlet performance.
 
 ---
 
-## 📸 Dashboard Screenshot
+## 📌 Project Objective
 
-Here is a preview of the dashboard:
+Use real-world Blinkit sales and operational data to:
 
-![Blinkit Dashboard Preview](WhatsApp%20Image%202025-08-04%20at%20.png)
+- Track **Total Sales**, **Average Sales**, and **Item Volume**
+- Analyze **Customer Ratings** and satisfaction trends
+- Compare outlet-level performance across **Tiered Cities**, **Sizes**, and **Establishment Years**
+- Enable data-driven decisions via interactive visuals and filters
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
-```plaintext
 Blinkit_Dashboard-PowerBI-/
-├── Blinkit_Dashboard.pbix          # Main Power BI file
-├── Data/                           # Folder containing data sources (CSV, Excel, etc.)
-├── Screenshots/                    # Dashboard preview images
-├── README.md                       # Project documentation
+├── Blinkit Dashboard.pbix # Main Power BI file (.pbix)
+├── BlinkIT Grocery Data.xlsx # Source dataset
+├── README.md # Project documentation
+└── dashboard_preview.png # Single screenshot in root directory
+
+
+---
+
+## 📸 Dashboard Preview
+
+![Blinkit Dashboard Preview](dashboard_preview.png)
+
+✅ *Make sure the image file `dashboard_preview.png` is in the repository’s root so the Markdown link works.*
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI Desktop** – for building and interacting with the dashboard  
+- **Power Query Editor** – for data cleansing and transformation  
+- **DAX** – for custom KPIs and measures  
+- **Excel / CSV** – for offline data preparation
+
+---
+
+## 📊 Key Dashboard Pages & Visualizations
+
+- **Overview & KPI Cards**: Total Sales, Avg. Sales, Items Sold, Avg. Rating, Delivery Time  
+- **Sales & Category Analysis**: Fat‑content comparisons, category performance, trend charts  
+- **Outlet Insights**: Sales and ratings by outlet size, tier, and year established  
+- **Delivery & Customer Feedback**: On‑time vs delayed delivery views, rating distributions  
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/ShubhamMehta2003/Blinkit_Dashboard-PowerBI-.git
+   cd Blinkit_Dashboard-PowerBI-
