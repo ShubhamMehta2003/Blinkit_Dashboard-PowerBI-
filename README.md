@@ -16,20 +16,11 @@ The main objective of this project is to use Power BI to:
 
 ---
 
-## 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshot
 
-Here are some preview images of the dashboard:
+Here is a preview of the dashboard:
 
-### 📍 Overview Page
-![Overview Screenshot](screenshots/overview.png)
-
-### 🛒 Category-wise Sales
-![Category-wise Sales](screenshots/category_sales.png)
-
-### 🌆 City Performance
-![City Performance](screenshots/city_performance.png)
-
-> ⚠️ *Make sure these images are uploaded inside a folder named `screenshots/` in your GitHub repository. If not, the images will not display correctly.*
+![Blinkit Dashboard Preview](WhatsApp%20Image%202025-08-04%20at%20.png)
 
 ---
 
