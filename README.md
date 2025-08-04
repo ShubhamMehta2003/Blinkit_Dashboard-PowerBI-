@@ -28,9 +28,7 @@ Blinkit_Dashboard-PowerBI-/
 
 ## 📸 Dashboard Preview
 
-![Blinkit Dashboard Preview](dashboard_preview.png)
-
-✅ *Make sure the image file `dashboard_preview.png` is in the repository’s root so the Markdown link works.*
+![Dashboard Preview](WhatsApp%20Image%202025-08-04%20at%2014.51.30_be21a087.jpg)
 
 ---
 
